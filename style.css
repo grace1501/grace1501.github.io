@@ -1,10 +1,19 @@
-.color-off-white {
-    background-color: #D7E6E3;
+.background-img {
+    background-image: url("./bg-gradient-pink-yellow.png");
+    background-size: cover;
+    text-align: center;
+    margin: 0;
+    height: 575px;
 }
 
-.color-light-blue {
-    background-color: #b3b3ff;
+.color-light-1 {
+    background-color: #AFE9C2;
 }
+
+.color-off-white {
+    background-color: #FDF6CE;
+}
+
 
 .img-picker {
     opacity: 1;
@@ -14,6 +23,11 @@
     opacity: 0.5;
 }
 
-h1 {
- font-t   
-}
+/* theme colors:
+#005151 dark green
+#FDF6CE light yellow - lemon chiffon
+#17183B dark blue - for text
+#FFD6EC pastel pink
+#AFE9C2 mint
+
+ */
