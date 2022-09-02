@@ -1,20 +1,24 @@
 .background-img {
-    background-image: url("./bg-gradient-pink-yellow.png");
+    background-image: url("./Images/bg-gradient-pink-yellow.png");
     background-size: cover;
     text-align: center;
     margin: 0;
-    height: 720px;
+    height: 700px;
 }
 
-.color-light-1 {
-    background-color: #AFE9C2;
+#intro {
+    padding-top: 10rem;
 }
 
-.color-off-white {
-    background-color: #FDF6CE;
+#avatar {
+    border-radius: 50%;
+    width: 15rem;
+    margin: 1rem;
 }
 
-
+#about-me {
+    background-color: #f5f5f5;
+}
 .img-picker {
     opacity: 1;
 }
