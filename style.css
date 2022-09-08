@@ -1,13 +1,23 @@
-.background-img {
-    background-image: url("./Images/bg-gradient-pink-yellow.png");
-    background-size: cover;
+.background-gradient {
+    /* background-image: url("./Images/bg-gradient-pink-yellow.png");
+    background-size: cover; */
+    background: rgb(253,246,206);
+    background: linear-gradient(135deg, rgba(253,246,206,1) 45%, rgba(255,214,236,1) 100%);
     text-align: center;
     margin: 0;
     height: 700px;
 }
 
+footer {
+    /* background: rgb(253,246,206); */
+    background: linear-gradient(135deg, rgba(253,246,206,1) 45%, rgba(255,214,236,1) 100%);
+    text-align: center;
+    margin: 0;
+    height: 100px;
+}
+
 #intro {
-    padding-top: 10rem;
+    padding-top: 12rem;
 }
 
 #avatar {
