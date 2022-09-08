@@ -13,7 +13,7 @@ footer {
     background: linear-gradient(135deg, rgba(253,246,206,1) 45%, rgba(255,214,236,1) 100%);
     text-align: center;
     margin: 0;
-    height: 100px;
+    height: auto;
 }
 
 #intro {
